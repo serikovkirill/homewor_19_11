@@ -11,7 +11,7 @@ void type (int a) {
 		i++;
 	}
 	if (i > a + 1) {
-		cout << "Bye, bye, dear, I'm already asleep..." << endl;
+		cout << "Bye, bye, dear, I'm already asleep..." << endl;//
 		i++;
 	}
 }

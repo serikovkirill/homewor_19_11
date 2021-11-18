@@ -14,7 +14,7 @@ void create_iterator(int* a, int* b, int* c, int v1, int v2, int v3) {
 	*a = max(max(v1,v2),v3);//присвоение значений переменным.
 	*b = sr;
 	*c = min(min(v1, v2), v3);
-	cout<<*a<<' ' <<*b<<' '<<*c;
+	cout<<*a<<' ' <<*b<<' '<<*c;//
 }
 int main() {
 	int p1, p2, p3;
